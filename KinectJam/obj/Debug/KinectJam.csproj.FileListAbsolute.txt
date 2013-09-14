@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\KinectJam\KinectJam\bin\Debug\KinectJam.exe.config
+C:\Users\User\Desktop\KinectJam\KinectJam\bin\Debug\KinectJam.exe
+C:\Users\User\Desktop\KinectJam\KinectJam\bin\Debug\KinectJam.pdb
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\App.g.cs
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\KinectJam_MarkupCompile.cache
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\KinectJam.g.resources
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\KinectJam.Properties.Resources.resources
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\KinectJam.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\KinectJam.exe
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\KinectJam.pdb
+C:\Users\User\Desktop\KinectJam\KinectJam\bin\Debug\Microsoft.Kinect.Toolkit.Controls.dll
+C:\Users\User\Desktop\KinectJam\KinectJam\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\User\Desktop\KinectJam\KinectJam\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\User\Desktop\KinectJam\KinectJam\bin\Debug\Microsoft.Kinect.Toolkit.Interaction.dll
+C:\Users\User\Desktop\KinectJam\KinectJam\obj\Debug\KinectJam.csprojResolveAssemblyReference.cache
